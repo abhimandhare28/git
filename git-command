@@ -1,0 +1,15 @@
+git inti > Initialize git repo in your machine
+git clone > Copy remote repository to your local machine 
+git fetch > Fetch changes from remote without merging.
+git pull (URL) > Copy code from remote repo to local repo 
+git add (file) > Add your changes in staging area 
+git commit -m > Save changes that you have made in the code and move code from staaging area to local area 
+git push -u origin  > Push code on github 
+git config --edit > We can set git username and email
+git status > Show the status of changes in the working directory and staging area. 
+git log > Shoes commit history
+git branch > List all branches
+git branch (Branch name) > Create new Branch
+git checkout (Branch name) > Switch branch
+git checkout -b > create and switch branch
+git branch -d (branch name) > Delete branch
